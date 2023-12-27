@@ -1,0 +1,4 @@
+Please ensure you have Anaconda 3 installed on your computer
+
+Open the file Code.ipynb from jupyter notebook with python 3 kernel
+Run it from the button within the jupyter notebook

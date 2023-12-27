@@ -1,0 +1,17 @@
+
+Please note that directly clicking on the code.py file won;t run the code
+
+Please ensure you have python 3 installed on your computer and has been added to PATH.
+
+Method 1:
+Open the  IDLE from start menu
+Open the file code.py
+Run it by pressing F5
+
+
+Method 2:
+
+Open command prompt (with python 3 installed) or Anaconda3 prompt
+Change the directory to this folder
+Run the command
+python code.py
